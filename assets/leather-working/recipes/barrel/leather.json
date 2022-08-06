@@ -1,0 +1,24 @@
+{
+    "code": "leather-plain",
+    "sealHours": 108,
+    "ingredients":
+    [
+        {
+            "type": "item",
+            "code": "game:strongtanninportion",
+            "litres": 1,
+            "consumeLitres": 1
+        },
+        {
+            "type": "item",
+            "code": "leather-working:hide-piece-prepared",
+            "quantity": 1
+        }
+    ],
+    "output":
+    {
+        "type": "item",
+        "code": "game:leather-plain",
+        "stackSize": 1
+    }
+}

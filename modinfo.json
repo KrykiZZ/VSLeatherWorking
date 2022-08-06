@@ -1,0 +1,17 @@
+{
+	"type": "content",
+	"name": "Leather Working",
+	"modid": "leather-working",
+	"version": "1.0.0",
+
+	"requiredOnClient": true,
+	"requiredOnServer": true,
+
+	"description": "Adds ability to cut different-size hides into smaller pieces.",
+	"website": "https://github.com/KrykiZZ/VSLeatherWorking",
+	"authors": [ "KrykiZZ" ],
+
+	"dependencies": {
+		"game": "1.16.5"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "code": "hide-piece-scraped",
+	"maxstacksize": 64,
+  "creativeinventory": {
+		"general": [ "*" ],
+    "leather-working": ["*"]
+  },
+  "texture": {
+    "base": "item/hide-piece-scraped"
+  }
+}

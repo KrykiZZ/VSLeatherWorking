@@ -1,0 +1,98 @@
+[
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": 
+			{
+				"type": "item", 
+				"code": "game:knife-*",
+				"isTool": true
+			},
+			"L":
+			{
+				"type": "item",
+				"code": "game:hide-raw-small"
+			}
+		},
+		"width": 1,
+		"height": 2,
+		"output":
+		{
+			"type": "item", 
+			"code": "leather-working:hide-piece-raw", 
+			"quantity": 2
+		}
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": 
+			{ 
+				"type": "item", 
+				"code": "game:knife-*",
+				"isTool": true
+			},
+			"L":
+			{
+				"type": "item",
+				"code": "game:hide-raw-medium"
+			}
+		},
+		"width": 1,
+		"height": 2,
+		"output":
+		{
+			"type": "item", 
+			"code": "leather-working:hide-piece-raw", 
+			"quantity": 4
+		}
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": 
+			{ 
+				"type": "item", 
+				"code": "game:knife-*",
+				"isTool": true
+			},
+			"L":
+			{
+				"type": "item",
+				"code": "game:hide-raw-large"
+			}
+		},
+		"width": 1,
+		"height": 2,
+		"output":
+		{
+			"type": "item", 
+			"code": "leather-working:hide-piece-raw", 
+			"quantity": 6
+		}
+	},
+	{
+		"ingredientPattern": "K,L",
+		"ingredients": {
+			"K": 
+			{ 
+				"type": "item", 
+				"code": "game:knife-*",
+				"isTool": true
+			},
+			"L":
+			{
+				"type": "item",
+				"code": "game:hide-raw-huge"
+			}
+		},
+		"width": 1,
+		"height": 2,
+		"output":
+		{
+			"type": "item", 
+			"code": "leather-working:hide-piece-raw", 
+			"quantity": 10
+		}
+	}
+]
